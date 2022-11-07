@@ -1,4 +1,7 @@
-# Brandon's Project Portfolio Page
+---
+layout: page
+title: Brandon's Project Portfolio Page
+---
 
 ## Arrow
 **Arrow** is a **desktop app** that **help software project managers keep track of their members’ tasks and deliverables**.
